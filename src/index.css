@@ -1,0 +1,8 @@
+.hero-section {
+  background: linear-gradient(to right, #1d2671, #c33764);
+  padding: 100px 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
