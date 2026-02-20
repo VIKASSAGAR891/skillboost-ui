@@ -31,23 +31,23 @@ Folder Structure
 src/
 │
 ├── components/
-│   ├── Navbar.jsx
-│   ├── Footer.jsx
-│   ├── HeroSection.jsx
-│   ├── CardComponent.jsx
-│   ├── ThemeToggle.jsx
-│   └── FilterBar.jsx
+│ ├── Navbar.jsx
+│ ├── Footer.jsx
+│ ├── HeroSection.jsx
+│ ├── CardComponent.jsx
+│ ├── ThemeToggle.jsx
+│ └── FilterBar.jsx
 │
 ├── context/
-│   └── AppContext.jsx
+│ └── AppContext.jsx
 │
 ├── reducer/
-│   └── appReducer.js
+│ └── appReducer.js
 │
 ├── pages/
-│   ├── Home.jsx
-│   ├── Projects.jsx
-│   └── Cart.jsx
+│ ├── Home.jsx
+│ ├── Projects.jsx
+│ └── Cart.jsx
 │
 ├── App.jsx
 ├── main.jsx
