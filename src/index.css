@@ -6,3 +6,20 @@
 body {
   font-family: Arial, sans-serif;
 }
+.light-mode {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
+}
+
+/* Improve card appearance in dark mode */
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: white;
+}
